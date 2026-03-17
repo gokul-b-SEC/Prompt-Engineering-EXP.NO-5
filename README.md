@@ -14,5 +14,19 @@ Prepare Multiple Test Scenarios: Select various scenarios such as: Generating a 
 OUTPUT:
 The experiment was conducted using naïve prompts and basic prompts across different scenarios such as creative story generation, answering factual questions, summarizing a concept, and providing advice. The responses generated using naïve prompts were generally short and less structured. In contrast, basic prompts produced more detailed and well-organized responses. The structured prompts helped the AI understand the task clearly and include relevant information. The outputs showed noticeable differences in clarity and completeness between the two prompt types.
 
-RESULT: 
+RESULT:
+
+Comparison Table
+   
+Scenario	        Prompt Type	Quality 	Accuracy  	Depth
+Creative Story	  Naïve   	Moderate	  High	      Low
+Creative Story	  Basic   	High	      High      	High
+Factual Question	Naïve   	Good	      High      	Moderate
+Factual Question	Basic   	High	      High       	High
+Concept Summary  	Naïve   	Moderate  	High      	Low
+Concept Summary 	Basic   	High      	High      	High
+Advice	          Naïve   	Moderate  	Moderate	  Low
+Advice	          Basic    	High      	High      	High
+
+
 The results indicate that basic prompts provide higher quality, more accurate, and deeper responses compared to naïve prompts. Clear and structured instructions help the AI generate more meaningful and relevant outputs. Naïve prompts may work for simple queries but often lack detail. Therefore, using well-defined prompts improves the effectiveness of AI-generated responses.
