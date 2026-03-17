@@ -16,17 +16,4 @@ The experiment was conducted using naïve prompts and basic prompts across diffe
 
 RESULT:
 
-Comparison Table
-   
-Scenario	        Prompt Type	Quality 	Accuracy  	Depth
-Creative Story	  Naïve   	Moderate	  High	      Low
-Creative Story	  Basic   	High	      High      	High
-Factual Question	Naïve   	Good	      High      	Moderate
-Factual Question	Basic   	High	      High       	High
-Concept Summary  	Naïve   	Moderate  	High      	Low
-Concept Summary 	Basic   	High      	High      	High
-Advice	          Naïve   	Moderate  	Moderate	  Low
-Advice	          Basic    	High      	High      	High
-
-
 The results indicate that basic prompts provide higher quality, more accurate, and deeper responses compared to naïve prompts. Clear and structured instructions help the AI generate more meaningful and relevant outputs. Naïve prompts may work for simple queries but often lack detail. Therefore, using well-defined prompts improves the effectiveness of AI-generated responses.
